@@ -1,6 +1,7 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
-// CODE HERE
+var myname = 'Rich';
+myname 'Rich';
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
